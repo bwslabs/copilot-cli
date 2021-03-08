@@ -21,7 +21,7 @@ require (
 	github.com/imdario/mergo v0.3.9
 	github.com/lnquy/cron v1.1.1
 	github.com/moby/buildkit v0.7.2
-	github.com/onsi/ginkgo v1.14.2
+	github.com/onsi/ginkgo v1.15.1
 	github.com/onsi/gomega v1.10.3
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/rogpeppe/go-internal v1.6.1 // indirect
@@ -32,8 +32,6 @@ require (
 	github.com/stretchr/testify v1.6.1
 	github.com/xlab/treeprint v1.0.0
 	golang.org/x/mod v0.4.0
-	golang.org/x/sync v0.0.0-20200625203802-6e8e738ad208 // indirect
-	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 	gopkg.in/ini.v1 v1.62.0
 	gopkg.in/yaml.v3 v3.0.0-20200605160147-a5ece683394c
